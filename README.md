@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- I'm myth 🗿 🍷 
+- 🗿 🍷 I'm myth 
 
 <!---
 GabrielPurper/GabrielPurper is a ✨ special ✨ and new repository because its `README.md` (this file) appears on your GitHub profile.
