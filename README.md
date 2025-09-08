@@ -1,15 +1,12 @@
 # Gabriel Purper Andrade e Silva
 
-- 👋 Hi, I’m @GabrielPurper
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning 
-- 📫 How to reach me ...
-- 🗿 🍷 I'm myth
-
-## Sobre o Gabriel Purper 
+## 👀 Sobre o Gabriel Purper 
+Hi, I’m @GabrielPurper 👋. 
 O desenvolvedor, com o principal objetivo de desenvolver projetos sofisticados e com qualidade, cumprindo prazos importantes e tarefas desafiadoras.
 
-## Estatísticas de GitHub de GabrielPurper
+- 🗿 🍷 I'm myth
+
+## 🌱 Estatísticas de GitHub de GabrielPurper
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=GabrielPurper&show_icons=true&theme=radical)
 
@@ -17,7 +14,8 @@ O desenvolvedor, com o principal objetivo de desenvolver projetos sofisticados e
 
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPurper&layout=compact&langs_count=20&theme=radical)
 
-# Redes Sociais
+# 📫 Onde me localizar
+## Redes Sociais
 
 <div> 
   <a href="https://www.youtube.com/@MagicPurper" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
