@@ -1,10 +1,15 @@
-## Gabriel Purper Andrade e Silva
+# Gabriel Purper Andrade e Silva
 
 - 👋 Hi, I’m @GabrielPurper
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning 
 - 📫 How to reach me ...
 - 🗿 🍷 I'm myth
+
+## Sobre o Gabriel Purper 
+O desenvolvedor, com o principal objetivo de desenvolver projetos sofisticados e com qualidade, cumprindo prazos importantes e tarefas desafiadoras.
+
+## Estatísticas de GitHub de GabrielPurper
 
 <div> 
   <a href="https://www.youtube.com/@MagicPurper" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
