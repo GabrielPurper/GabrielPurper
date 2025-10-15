@@ -1,7 +1,8 @@
 # Gabriel Purper Andrade e Silva
 
 ## 👀 Sobre o Gabriel Purper 
-Hi, I’m @GabrielPurper 👋. 
+Hi, I’m @GabrielPurper 👋.
+
 O desenvolvedor, com o principal objetivo de desenvolver projetos sofisticados e com qualidade, cumprindo prazos importantes e tarefas desafiadoras.
 
 - I'm Gabriel Purper 
