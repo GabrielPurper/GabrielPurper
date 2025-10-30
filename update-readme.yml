@@ -1,29 +1,28 @@
-name: Atualizar README automaticamente
+name: Atualizar Estatísticas do README
 
 on:
   schedule:
-    - cron: "0 3 * * *" # Executa todo dia às 03h (UTC)
-  workflow_dispatch:     # Permite rodar manualmente
+    - cron: "*/30 * * * *"  # executa a cada 30 minutos
+  workflow_dispatch: # permite rodar manualmente
+  push:
+    branches:
+      - main
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     steps:
       - name: Clonar repositório
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
-      - name: Gerar estatísticas automáticas
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: GabrielPurper
-          show_icons: true
-          theme: radical
-
-      - name: Commit e push
+      - name: Atualizar README (forçar atualização do cache)
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Atualização automática do README 💫" || echo "Nenhuma mudança"
+          sed -i "s/cacheBuster=.*/cacheBuster=$(date +%s)/" README.md || true
+
+      - name: Commit e Push das alterações
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Atualização automática do README"
           git push
