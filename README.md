@@ -18,6 +18,10 @@ O desenvolvedor, com o principal objetivo de desenvolver projetos sofisticados e
 
 # 📫 Onde me localizar
 
+### 📄 Currículo Online
+
+Acesse meu portfólio completo:
+
 
 ## Redes Sociais
 
