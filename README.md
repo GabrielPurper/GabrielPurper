@@ -18,8 +18,6 @@ O desenvolvedor, com o principal objetivo de desenvolver projetos sofisticados e
 
 # 📫 Onde me localizar
 
-[![Mapa OSM - Aristódemo Gazzotti, 458](./assets/mapa-osm-aristodemo-458.png)](https://www.openstreetmap.org/search?query=Rua%20Aristodemo%20Gazzotti%20458%20Vila%20das%20Belezas) 
-
 
 ## Redes Sociais
 
