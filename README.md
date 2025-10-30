@@ -9,11 +9,12 @@ O desenvolvedor, com o principal objetivo de desenvolver projetos sofisticados e
 
 ## 🌱 Estatísticas de GitHub de GabrielPurper
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=GabrielPurper&show_icons=true&theme=radical)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=GabrielPurper&show_icons=true&theme=radical&cacheBuster=1)
 
-## Linguagens mais usadas
+## 💻 Linguagens mais usadas
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPurper&layout=compact&langs_count=20&theme=radical)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPurper&layout=compact&langs_count=20&theme=radical&cacheBuster=1)
+
 
 # 📫 Onde me localizar
 ## Redes Sociais
