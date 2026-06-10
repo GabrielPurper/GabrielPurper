@@ -7,46 +7,48 @@ O desenvolvedor, com o principal objetivo de desenvolver projetos sofisticados e
 
 - I'm Gabriel Purper 
 
+---
+
 ## 📌 Projetos em Destaque
 
+<div align="center">
+
 <a href="https://github.com/GabrielPurper/MonitorSaude">
-  <img align="left" margin-right="10px" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=MonitorSaude&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=MonitorSaude&theme=radical" />
 </a>
 
 <a href="https://github.com/GabrielPurper/aulas_FEI">
-  <img align="left" margin-right="10px" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=aulas_FEI&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=aulas_FEI&theme=radical" />
 </a>
-
-<br/>
 
 <a href="https://github.com/GabrielPurper/Quadra_para_todos">
-  <img align="left" margin-right="10px" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=Quadra_para_todos&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=Quadra_para_todos&theme=radical" />
 </a>
 
-<a href="https://github.com/GabrielPurper/Shoppe">
-  <img align="left" margin-right="10px" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=Shoppe&theme=radical" />
+<a href="https://github.com/GabrielPurper/ShoppeDocs">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=ShoppeDocs&theme=radical" />
 </a>
-
-<br/>
 
 <a href="https://github.com/GabrielPurper/PurperZone">
-  <img align="left" margin-right="10px" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=PurperZone&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=PurperZone&theme=radical" />
 </a>
 
-<a href="https://github.com/GabrielPurper/JOGO_FEI">
-  <img align="left" margin-right="10px" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=JOGO_FEI&theme=radical" />
+<a href="https://github.com/GabrielPurper/Perfil_Profissional">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=Perfil_Profissional&theme=radical" />
 </a>
 
-<br/>
-<br/>
+</div>
 
 ---
 
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPurper&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cacheBuster=1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPurper&layout=compact&langs_count=7&theme=radical&cacheBuster=1" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPurper&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cacheBuster=1" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPurper&layout=compact&langs_count=7&theme=radical&cacheBuster=1" />
+
 </div>
 
 ---
@@ -57,6 +59,7 @@ O desenvolvedor, com o principal objetivo de desenvolver projetos sofisticados e
 
 Acesse meu portfólio completo:
 
+---
 
 ## 🌐 Redes Sociais
 
