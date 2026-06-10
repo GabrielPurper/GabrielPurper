@@ -33,10 +33,6 @@ O desenvolvedor, com o principal objetivo de desenvolver projetos sofisticados e
   <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=PurperZone&theme=radical" />
 </a>
 
-<a href="https://github.com/GabrielPurper/Perfil_Profissional">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=Perfil_Profissional&theme=radical" />
-</a>
-
 </div>
 
 ---
@@ -58,6 +54,10 @@ O desenvolvedor, com o principal objetivo de desenvolver projetos sofisticados e
 ### 📄 Currículo Online
 
 Acesse meu portfólio completo:
+
+<a href="https://github.com/GabrielPurper/Perfil_Profissional">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=Perfil_Profissional&theme=radical" />
+</a>
 
 ---
 
