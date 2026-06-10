@@ -1,20 +1,55 @@
 # Gabriel Purper Andrade e Silva
 
 ## 👀 Sobre o Gabriel Purper 
-Hi, I’m @GabrielPurper 👋.
+Hi, I'm @GabrielPurper 👋.
 
 O desenvolvedor, com o principal objetivo de desenvolver projetos sofisticados e com qualidade, cumprindo prazos importantes e tarefas desafiadoras.
 
 - I'm Gabriel Purper 
 
-## 🌱 Estatísticas de GitHub de GabrielPurper
+## 📌 Projetos em Destaque
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=GabrielPurper&show_icons=true&theme=radical&cacheBuster=1)
+<a href="https://github.com/GabrielPurper/MonitorSaude">
+  <img align="left" margin-right="10px" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=MonitorSaude&theme=radical" />
+</a>
 
-## 💻 Linguagens mais usadas
+<a href="https://github.com/GabrielPurper/aulas_FEI">
+  <img align="left" margin-right="10px" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=aulas_FEI&theme=radical" />
+</a>
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPurper&layout=compact&langs_count=20&theme=radical&cacheBuster=1)
+<br/>
 
+<a href="https://github.com/GabrielPurper/Quadra_para_todos">
+  <img align="left" margin-right="10px" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=Quadra_para_todos&theme=radical" />
+</a>
+
+<a href="https://github.com/GabrielPurper/Shoppe">
+  <img align="left" margin-right="10px" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=Shoppe&theme=radical" />
+</a>
+
+<br/>
+
+<a href="https://github.com/GabrielPurper/PurperZone">
+  <img align="left" margin-right="10px" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=PurperZone&theme=radical" />
+</a>
+
+<a href="https://github.com/GabrielPurper/JOGO_FEI">
+  <img align="left" margin-right="10px" width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=JOGO_FEI&theme=radical" />
+</a>
+
+<br/>
+<br/>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPurper&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cacheBuster=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPurper&layout=compact&langs_count=7&theme=radical&cacheBuster=1" />
+</div>
+
+---
 
 # 📫 Onde me localizar
 
@@ -23,17 +58,15 @@ O desenvolvedor, com o principal objetivo de desenvolver projetos sofisticados e
 Acesse meu portfólio completo:
 
 
-## Redes Sociais
+## 🌐 Redes Sociais
 
-<div> 
+<div align="center"> 
   <a href="https://www.youtube.com/@MagicPurper" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@bielpurper" target="_blank"><img src="https://img.shields.io/badge/YouTube 2-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/biel.purper" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.capcut.com/profile/TsH88TDhIqXSgRC60e-hGr6LTt1P7jKROEJlLf2Sh2M" target="_blank"><img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"></a>                                                                                                                                                                                       
-  <a href="https://www.tiktok.com/@magicpurper2007?is_from_webapp=1&sender_device=pc" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
- 	<a href="https://www.twitch.tv/magicpurper2007" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "malito:contatoGabriel.purper@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-purper-andrade-e-silva-05b36534a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwQDh8jSCTlCbFaCs4buihA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.capcut.com/profile/TsH88TDhIqXSgRC60e-hGr6LTt1P7jKROEJlLf2Sh2M" target="_blank"><img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" target="_blank"></a>
+  <a href="https://www.tiktok.com/@magicpurper2007?is_from_webapp=1&sender_device=pc" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/magicpurper2007" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="mailto:contatoGabriel.purper@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-purper-andrade-e-silva-05b36534a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-
