@@ -2,7 +2,15 @@
 
 ## 👀 Sobre Mim
 
-Desenvolvedor focado em criar projetos sofisticados e com qualidade, cumprindo prazos importantes e encarando tarefas desafiadoras. Atualmente cursando Ciência da Computação na FEI.
+Sou estudante de **Ciência da Computação no Centro Universitário FEI** e Técnico em **Internet das Coisas (IoT)** formado pelo Senac Nações Unidas. Atualmente, atuo no ambiente corporativo e de desenvolvimento na **AESConcept**.
+
+Tenho como principal objetivo desenvolver projetos sofisticados, eficientes e com alto padrão de qualidade, unindo o conhecimento acadêmico à resolução de problemas reais do mercado. Sou movido por desafios técnicos, cumprimento de prazos importantes e pelo aprendizado constante de novas tecnologias.
+
+Atualmente tenho focado meus estudos e projetos em:
+- 💻 Desenvolvimento de Software (Python, JavaScript, C++, C, Java)
+- 🌐 Soluções e Arquitetura de IoT / Automação
+- 🕹️ Desenvolvimento de Jogos e Simulações Interativas
+- 🚀 Otimização e Performance de Sistemas
 
 ---
 
@@ -77,5 +85,5 @@ Desenvolvedor focado em criar projetos sofisticados e com qualidade, cumprindo p
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghvc/?username=GabrielPurper&color=8a2be2&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghvc/?username=GabrielPurper&color=28a745&style=flat-square&label=VISITAS+AO+PERFIL" alt="Contador de Visitas" />
 </p>
