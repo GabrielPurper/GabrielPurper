@@ -14,23 +14,23 @@ O desenvolvedor, com o principal objetivo de desenvolver projetos sofisticados e
 <div align="center">
 
 <a href="https://github.com/GabrielPurper/MonitorSaude">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=MonitorSaude&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=MonitorSaude&theme=radical&cache_buster=3" />
 </a>
 
 <a href="https://github.com/GabrielPurper/aulas_FEI">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=aulas_FEI&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=aulas_FEI&theme=radical&cache_buster=3" />
 </a>
 
 <a href="https://github.com/GabrielPurper/Quadra_para_todos">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=Quadra_para_todos&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=Quadra_para_todos&theme=radical&cache_buster=3" />
 </a>
 
 <a href="https://github.com/GabrielPurper/ShoppeDocs">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=ShoppeDocs&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=ShoppeDocs&theme=radical&cache_buster=3" />
 </a>
 
 <a href="https://github.com/GabrielPurper/PurperZone">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=PurperZone&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=PurperZone&theme=radical&cache_buster=3" />
 </a>
 
 </div>
@@ -41,9 +41,9 @@ O desenvolvedor, com o principal objetivo de desenvolver projetos sofisticados e
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPurper&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cacheBuster=1" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPurper&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cacheBuster=3" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPurper&layout=compact&langs_count=7&theme=radical&cacheBuster=1" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPurper&layout=compact&langs_count=7&theme=radical&cacheBuster=3" />
 
 </div>
 
@@ -56,7 +56,7 @@ O desenvolvedor, com o principal objetivo de desenvolver projetos sofisticados e
 Acesse meu portfólio completo:
 
 <a href="https://github.com/GabrielPurper/Perfil_Profissional">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=Perfil_Profissional&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=Perfil_Profissional&theme=radical&cache_buster=3" />
 </a>
 
 ---
