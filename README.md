@@ -14,7 +14,7 @@ O desenvolvedor, com o principal objetivo de desenvolver projetos sofisticados e
 <div align="center">
 
 <a href="https://github.com/GabrielPurper/MonitorSaude">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=MonitorSaude&theme=radical&cache_buster=3" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=MonitorSaude&theme=radical&cache_buster=4" />
 </a>
 
 <a href="https://github.com/GabrielPurper/aulas_FEI">
@@ -22,11 +22,11 @@ O desenvolvedor, com o principal objetivo de desenvolver projetos sofisticados e
 </a>
 
 <a href="https://github.com/GabrielPurper/Quadra_para_todos">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=Quadra_para_todos&theme=radical&cache_buster=3" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=Quadra_para_todos&theme=radical&cache_buster=4" />
 </a>
 
 <a href="https://github.com/GabrielPurper/ShoppeDocs">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=ShoppeDocs&theme=radical&cache_buster=3" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielPurper&repo=ShoppeDocs&theme=radical&cache_buster=4" />
 </a>
 
 <a href="https://github.com/GabrielPurper/PurperZone">
