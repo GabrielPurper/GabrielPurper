@@ -26,6 +26,7 @@ Atualmente tenho focado meus estudos e projetos em:
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino/IoT](https://img.shields.io/badge/IoT%20/%20Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-2E3440?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 </div>
 
