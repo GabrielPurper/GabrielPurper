@@ -1,12 +1,12 @@
 <!-- HEADER: Nome e Saudação sobre mim-->
 # Gabriel Purper Andrade e Silva 
 
-<!-- SEÇÃO: MINHA HISTÓRIA  ou BIO-->
+<!-- SEÇÃO: MINHA HISTÓRIA ou BIO-->
 ## 📖 Minha História
 
 Minha trajetória na tecnologia começou com a formação técnica em **Internet das Coisas (IoT)** no Senac Nações Unidas, onde desenvolvi uma forte paixão pela integração entre hardware, sensores e software. Atualmente, estou cursando **Ciência da Computação no Centro Universitário FEI**, aprofundando meus conhecimentos em engenharia de software, sistemas distribuídos e arquitetura de código e construindo trajetórias novas.
 
-No mercado, aplico esse aprendizado no desenvolvimento de soluções corporativas e automações em projetos, ajudando na **AESConcept**. Além disso, atuo ativamente na liderança estudantil como cofundador do **Diretório Acadêmico (DA Geral)** da FEI e busco contribuir com a comunidade científica, tendo publicado artigo acadêmico focado na arquitetura de sistemas computacionais autossustentáveis e *Edge Computing*.
+No mercado, aplico esse aprendizado no desenvolvimento de soluções corporativas e automações em projetos, ajudando na **AESConcept**. Além disso, atuo ativamente na liderança estudantil como cofundador do **Centro Acadêmico de Computação (CAC-SP)** da FEI e busco contribuir com a comunidade científica, tendo publicado artigo acadêmico focado na arquitetura de sistemas computacionais autossustentáveis e *Edge Computing*.
 
 Seja construindo assistentes de IA locais como meu **Jarvis**, projetando sistemas embarcados para IoT ou desenvolvendo aplicações web e jogos interativos, sou movido pela resolução de problemas complexos, inovadores de baixa ou alta performance e aprendizado contínuo.
 
@@ -18,7 +18,7 @@ Seja construindo assistentes de IA locais como meu **Jarvis**, projetando sistem
 - 🎓 Graduando em **Ciência da Computação** (Centro Universitário FEI)
 - 🛠️ Técnico em **Internet das Coisas (IoT)** (Senac Nações Unidas)
 - 💼 Desenvolvedor & Atuação Corporativa na **AESConcept**
-- 🏛️ Cofundador e Líder Estudantil do **Diretório Acadêmico (DA Geral - FEI)**
+- 🏛️ Cofundador e Líder Estudantil do **Centro Acadêmico de Computação (CAC-SP - FEI)**
 
 **Atualmente focado em:**
 - 💻 Desenvolvimento Full-Stack & Aplicações Web (Node.js, Express, React Native, Python, C++)
@@ -29,8 +29,6 @@ Seja construindo assistentes de IA locais como meu **Jarvis**, projetando sistem
 ---
 
 <!-- SEÇÃO: TECNOLOGIAS & HABILIDADES -->
-<!-- Para adicionar ou remover badges, eu acesso https://shields.io -->
-<!-- Estrutura do badge: https://img.shields.io/badge/TEXTO-COR_HEX?style=for-the-badge&logo=NOME_DO_LOGO&logoColor=COR_DO_ICONE -->
 ## 🛠️ Tecnologias & Habilidades
 
 <div align="center">
@@ -53,8 +51,6 @@ Seja construindo assistentes de IA locais como meu **Jarvis**, projetando sistem
 ---
 
 <!-- SEÇÃO: PROJETOS EM DESTAQUE -->
-<!-- Para eu alterar os repositórios, troque 'repo=NOME_DO_REPO' na URL das imagens e no 'href' do link -->
-<!-- Se a imagem quebrar por limite de requisições, altere o parâmetro '&cache_buster=1' no final da URL para forçar atualização -->
 ## 📌 Projetos em Destaque
 
 <div align="center">
@@ -83,8 +79,6 @@ Seja construindo assistentes de IA locais como meu **Jarvis**, projetando sistem
 ---
 
 <!-- SEÇÃO: ESTATÍSTICAS -->
-<!-- Nota 1: O parâmetro '&cacheBuster=...' faz com que seu GitHub Action atualize a imagem automaticamente -->
-<!-- Se tiver que mudar o tema, altere '&theme=radical' para 'tokyonight', 'dark', 'dracula', 'gruvbox', e outros -->
 ## 📊 Estatísticas
 
 <div align="center">
@@ -108,7 +102,6 @@ Seja construindo assistentes de IA locais como meu **Jarvis**, projetando sistem
 ---
 
 <!-- SEÇÃO: REDES SOCIAIS & CONTATO -->
-<!-- Para mudar ou adicionar redes: altere o href="SEU_LINK" e os parâmetros do badge no Shields.io -->
 ## 🌐 Redes Sociais & Contato
 
 <div align="center"> 
