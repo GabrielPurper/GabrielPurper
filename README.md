@@ -2,7 +2,7 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · gabrielpurper</sub></p>
+<p><sub>RECRUITER · gabrielpurper</sub></p>
 <h1>Gabriel Purper Andrade e Silva</h1>
 <h2>Frontend / Full-Stack Engineer · IoT · Ciência da Computação</h2>
 <p>Sou o Gabriel Purper e sou animado quando fala de programação e de tecnologia com foco no ecossistema de desenvolvimento e computação.</p>
