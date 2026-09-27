@@ -1,14 +1,26 @@
 <div align="center">
-  <img src="https://github.com/GabrielPurper.png" width="180" style="border-radius: 50%; border: 4px solid #58a6ff;" alt="Gabriel Purper"/>
-  <h1>Gabriel Purper Andrade e Silva</h1>
-  <h3>Frontend / Full-Stack Engineer · IoT · Ciência da Computação</h3>
-  <p>Sou o Gabriel Purper e sou animado quando fala de programação e de tecnologia com foco no ecossistema de desenvolvimento e computação.</p>
-  <p><strong>● Building and sharing work in public</strong></p>
-  <p><sub>Based in São Paulo · Brasil</sub></p>
-  <p>
-    <a href="https://github.com/GabrielPurper">GitHub</a> ·
-    <a href="https://www.linkedin.com/in/gabriel-purper-andrade-e-silva-05b36534a">LinkedIn</a>
-  </p>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER · gabrielpurper</sub></p>
+<h1>Gabriel Purper Andrade e Silva</h1>
+<h2>Frontend / Full-Stack Engineer · IoT · Ciência da Computação</h2>
+<p>Sou o Gabriel Purper e sou animado quando fala de programação e de tecnologia com foco no ecossistema de desenvolvimento e computação.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in São Paulo · Brasil</sub></p>
+<p>
+<a href="https://github.com/GabrielPurper">GitHub</a> ·
+<a href="https://www.linkedin.com/in/gabriel-purper-andrade-e-silva-05b36534a">LinkedIn</a>
+</p>
+</td>
+<td width="36%" valign="middle" align="center">
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=gabrielpurper&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F104388283%3Fv%3D4&color=1&v=recruiter-portrait-1&mode=light" />
+<img src="https://www.gitskins.com/api/section/portrait?username=gabrielpurper&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F104388283%3Fv%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="Gabriel Purper Andrade e Silva" />
+</picture>
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -91,9 +103,18 @@ Para mim, a tecnologia é mais do que uma carreira: é um estilo de vida pautado
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPurper&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPurper&layout=compact&langs_count=7&theme=radical&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPurper&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPurper&layout=compact&langs_count=7&theme=radical&cache_seconds=1800" alt="Top Languages" />
 </div>
+
+<br>
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=gabrielpurper&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F104388283%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
+<img src="https://www.gitskins.com/api/section/heatmap?username=gabrielpurper&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F104388283%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Contribution activity" />
+</picture>
+</p>
 
 ---
 
@@ -123,5 +144,5 @@ Para mim, a tecnologia é mais do que uma carreira: é um estilo de vida pautado
 ---
 
 <p align="center">
-  <sub>Gabriel Purper Andrade e Silva</sub>
+<sub>Gabriel Purper Andrade e Silva · Built with ❤️ + <a href="https://www.gitskins.com">GitSkins</a></sub>
 </p>
