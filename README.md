@@ -1,26 +1,14 @@
 <div align="center">
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER · gabrielpurper</sub></p>
-<h1>Gabriel Purper Andrade e Silva</h1>
-<h2>Frontend / Full-Stack Engineer · IoT · Ciência da Computação</h2>
-<p>Sou o Gabriel Purper e sou animado quando fala de programação e de tecnologia com foco no ecossistema de desenvolvimento e computação.</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in São Paulo · Brasil</sub></p>
-<p>
-  <a href="https://github.com/GabrielPurper">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/gabriel-purper-andrade-e-silva-05b36534a">LinkedIn</a>
-</p>
-</td>
-<td width="36%" valign="middle" align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=gabrielpurper&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F104388283%3Fv%3D4&color=1&v=recruiter-portrait-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=gabrielpurper&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F104388283%3Fv%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="Gabriel Purper Andrade e Silva" />
-</picture>
-</td>
-</tr>
-</table>
+  <img src="https://github.com/GabrielPurper.png" width="180" style="border-radius: 50%; border: 4px solid #58a6ff;" alt="Gabriel Purper"/>
+  <h1>Gabriel Purper Andrade e Silva</h1>
+  <h3>Frontend / Full-Stack Engineer · IoT · Ciência da Computação</h3>
+  <p>Sou o Gabriel Purper e sou animado quando fala de programação e de tecnologia com foco no ecossistema de desenvolvimento e computação.</p>
+  <p><strong>● Building and sharing work in public</strong></p>
+  <p><sub>Based in São Paulo · Brasil</sub></p>
+  <p>
+    <a href="https://github.com/GabrielPurper">GitHub</a> ·
+    <a href="https://www.linkedin.com/in/gabriel-purper-andrade-e-silva-05b36534a">LinkedIn</a>
+  </p>
 </div>
 
 ---
@@ -89,8 +77,6 @@ Para mim, a tecnologia é mais do que uma carreira: é um estilo de vida pautado
 
 ## 📌 Projetos em Destaque
 
-<div align="center">
-
 | Projeto | Descrição | Tech |
 |---------|-----------|------|
 | **[MonitorSaude](https://github.com/GabrielPurper/MonitorSaude)** | Sistema web de monitoramento de pressão arterial e pulso em tempo real (ESP32 + Firebase + Node.js). Projeto de conclusão do 3º ano + continuidade educativa e comercial. | JS · Node · Firebase · IoT |
@@ -100,25 +86,14 @@ Para mim, a tecnologia é mais do que uma carreira: é um estilo de vida pautado
 | **[Perfil_Profissional](https://github.com/GabrielPurper/Perfil_Profissional)** | Currículo web interativo. | HTML · CSS · JS |
 | **[ShoppeDocs](https://github.com/GabrielPurper/ShoppeDocs)** | Templates e documentação de afiliados. | HTML · Docs |
 
-</div>
-
 ---
 
 ## 📊 Estatísticas
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPurper&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPurper&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielPurper&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPurper&layout=compact&langs_count=7&theme=radical&cache_seconds=1800" />
 </div>
-
-<br>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=gabrielpurper&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F104388283%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=gabrielpurper&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F104388283%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Contribution activity" />
-</picture>
-</p>
 
 ---
 
@@ -148,5 +123,5 @@ Para mim, a tecnologia é mais do que uma carreira: é um estilo de vida pautado
 ---
 
 <p align="center">
-  <sub>Gabriel Purper Andrade e Silva · Built with ❤️ + <a href="https://www.gitskins.com">GitSkins</a></sub>
+  <sub>Gabriel Purper Andrade e Silva</sub>
 </p>
